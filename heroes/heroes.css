@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    background-image: url(https://i.pinimg.com/736x/71/d8/8a/71d88a3200e788d9c4802d0e970d13a9.jpg);
+    background-size: cover;
+    background-position: center;
+    backdrop-filter: blur(6px);
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border: 5px solid rgb(255, 255, 255);
+    background-color: black;
+        
+}
+
+.content h1 {
+    font-size: 5em;
+    margin-bottom: 10px;
+    border: 3px solid white;
+    backdrop-filter: blur(10px);
+}
+
+.content img {
+    max-width: 50%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.content p {
+    flex: 1;
+    font-size: 1.5em;
+    line-height: 1.5;
+}
