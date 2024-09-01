@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    background-image: url(https://i.pinimg.com/736x/ae/e4/61/aee46115fe283f3418aa73bccd3ad2ee.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    backdrop-filter: blur(6px);
+    margin: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+.content h1 {
+    font-size: 5em;
+    margin-bottom: 10px;
+    border: 3px solid white;
+    backdrop-filter: blur(10px);
+
+}
+
+.content img {
+    max-width: 50%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.content p {
+    flex: 1;
+    font-size: 1.5em;
+    line-height: 1.5;
+}
