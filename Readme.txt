@@ -89,11 +89,3 @@ Desarrollado por **Luis Fernando Pérez Salamanca**.
 
 ---
 
-## 📧 **Contacto**  
-
-- **GitHub:** [@L-salamanca](https://github.com/L-salamanca)  
-- **Correo:** [tuemail@example.com]  
-
----
-
-¡Explora el mundo de Batman con esta landing page! 🦇💻✨  
